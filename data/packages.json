@@ -1,0 +1,296 @@
+[
+    
+    {
+        "package_id": "01",
+        "title": "Amazing 3 Days Sunderban Water Activities Tour Package",
+        "img": "https://i.ibb.co/HNX0Rh8/1.jpg",
+        "price": "10000",
+        "classNames": "active",
+        "description": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. After Briefing and interpretation by our local guide cum naturalist over Tea/Coffee/Welcome drink, cruise through Vidyadhari, Durgaduani and Gumdi rivers to the Sudhanyakhali watch tower and visit to Sajnekhali Interpretation centre. Experience the Island Cruise and arrive at Bali Island and check in into TORA. Evening at leisure. Overnight at the Camp. ",
+        "details": [
+            {
+                "id": "0",
+                "day" : "Day 1",
+                "name": "Dhaka To Sundarbans And Visit The National Park:",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. After Briefing and interpretation by our local guide cum naturalist over Tea/Coffee/Welcome drink, cruise through Vidyadhari, Durgaduani and Gumdi rivers to the Sudhanyakhali watch tower and visit to Sajnekhali Interpretation centre. Experience the Island Cruise and arrive at Bali Island and check in into TORA. Evening at leisure. Overnight at the Camp. "
+            },
+            {
+                "id": "1",
+                "day": "Day 2",
+                "name": "Panchamukhani",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise back through Banbibi bharani Sorakkhali Choragazikhali creeks; Lunch on board the cruise. Overnight at the Camp. "
+            },
+            {
+                "id": "2",
+                "day": "Day 3",
+                "name": "Village Life Experience And Transfers To Dhaka",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+            }
+        ],
+        "reviews": [
+            {
+                "id": "0",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "Md Karim Miah",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. "
+                ,"rating": "4.5"
+            },
+            {
+                "id": "1",
+                "img" : "https://i.ibb.co/1J3vryH/bb.jpg",
+                "name": "Md Bayazid Hossain",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise. "
+                ,"rating": "3.5"
+            },
+            {
+                "id": "2",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "NH Siam",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+            }
+        ]
+    },
+    {
+        "package_id": "02",
+        "title": "Experience 2 Days 1 Night Bangladesh Srimangal Trip Package",
+        "img": "https://i.ibb.co/JQxTKPF/2.jpg",
+        "price": "20.00",
+        "classNames": "a",
+        "description": "At 7 am report at Dhaka Biman Bandar train station to board on the train Parabat Express Tuesday off for Srimangal. Train will arrival at Srimangal by noon & check in to your designated resort for lunch. In the afternoon will explore a fascinating Garo Tribal village OR visit Bikka Beel, vast wet land full of water. Night stay at guest house in Srimangal",
+        "details": [
+            {
+                "id": "0",
+                "day" : "Day 1",
+                "name": "Bangladesh srimangal",
+                "details": "At 7 am report at Dhaka Biman Bandar train station to board on the train Parabat Express Tuesday off for Srimangal. Train will arrival at Srimangal by noon & check in to your designated resort for lunch. In the afternoon will explore a fascinating Garo Tribal village OR visit Bikka Beel, vast wet land full of water. Night stay at guest house in Srimangal"
+            },
+            {
+                "id": "1",
+                "day" : "Day 2",
+                "name": "Lawachara madhabpur",
+                "details": "Early morning explore the Lawachhara National Park for trekking through this evergreen rain forest. This is a reserved forest located about 12 km from Sri Mangal Town. Hill top tribal village inside the park, home of Khashia tribal community. Proceed to Madhabpur lake, surrounded by the fascinating green hills covered by the tea plants. At 5:15 pm board on the return train headed to Dhaka. By 10 pm disembark the train in Dhaka"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "0",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "Md Karim Miah",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. "
+                ,"rating": "4.5"
+            },
+            {
+                "id": "1",
+                "img" : "https://i.ibb.co/1J3vryH/bb.jpg",
+                "name": "Md Bayazid Hossain",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise. "
+                ,"rating": "3.5"
+            },
+            {
+                "id": "2",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "NH Siam",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+            }
+        ]
+    },
+    {
+        "package_id": "03",
+        "title": "Amazing 3 Days Bogra and Tangail Vacation Package",
+        "img": "https://i.ibb.co/558kdKP/2.webp",
+        "price": "200.00",
+        "classNames": "a",
+        "description": "Dhaka Airport Transfer to Hotel Today we will take you to Lal Bagh Fort Known as Red Fort Lalbagh Fort is an incomplete century Mughal fort complex that stands before the Buriganga River in the southwestern part",
+        "details": [
+            {
+                "id": "0",
+                "day": "Day 1",
+                "name": "Dhaka Bogra By Road",
+                "details": "Another day into the heritage of this unique country as we proceed to Bogra we will experience today seeing the rural and village life of Bangladesh In this full day tour we will take you to a remote village in Dhamrai"
+            },
+            {
+                "id": "1",
+                "day" : "Day 2",
+                "name": "Bogra to Paharpur Mahasthangor",
+                "details": "Yet another day viewing another of Bangaldeshs heritage to the world the World Heritage Site of Paharpur At this Budsdhist Monastery we see the Buddhist Vihara dating back to the 8th century the largest"
+            },
+            {
+                "id": "2",
+                "day": "Day 3",
+                "name": " Bogra to Tangail to Dhaka",
+                "details": "On the way back to Dhaka we will visit to Tangail A culturally refreshing day ahead as we visit the weavers village in Tangail famous for Saris LungisBed Sheets etc Here we also get an opportunity to see"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "0",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "Md helal miah",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. "
+                ,"rating": "4.5"
+            },
+            {
+                "id": "1",
+                "img" : "https://i.ibb.co/1J3vryH/bb.jpg",
+                "name": "Md Bayazid Hossain",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise. "
+                ,"rating": "3.5"
+            },
+            {
+                "id": "2",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "NH Siam",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+                ,"rating": "4.5"
+            }
+            
+        ]
+    },
+    {
+        "package_id": "04",
+        "title": "Magical 3 Days 2 Nights Dhaka and Sylhet Tour Package",
+        "img": "https://i.ibb.co/c85nY39/4.jpg",
+        "price": "150.00",
+        "classNames": "active",
+        "description": "Pickup from your place in Dhaka in the morning to start for Sylhet 8 hrs. . Check in to your designated hotel. In the evening visit Lakhigadi Shaktipeeth near Sylhet town. Overnight stay at Hotel in Sylhet",
+        "details": [
+            {
+                "id": "0",
+                "day": "Day 1",
+                "name": ": Dhaka",
+                "details": "Pickup from your place in Dhaka in the morning to start for Sylhet 8 hrs. . Check in to your designated hotel. In the evening visit Lakhigadi Shaktipeeth near Sylhet town. Overnight stay at Hotel in Sylhet"
+            },
+            {
+                "id": "1",
+                "day": "Day 2",
+                "name": "Sylhet",
+                "details": "6:30 am excursion to 2 hrs. Baurbhag village at Kanaighat near Jantiapur to worship Jayantia Shaktipeeth. Return to Sylhet forlunch & proceed to your designated hotel for an overnight stay in Comilla."
+            },
+            {
+                "id": "2",
+                "day": "Day 3",
+                "name": " Dhaka",
+                "details": "After breakfast excursion to Shitakunda & worship Chattal Shaktipeeth on the Chandarnath hill. Also visit Sravani Shaktipeeth ofKumari Kunda at Bara Kumira Ghat Ghar in Chittagong. Transfer to your designated hotel for an overnight stay in Dhaka"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "0",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "Md Karim Miah",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. "
+                ,"rating": "4.5"
+            },
+            {
+                "id": "1",
+                "img" : "https://i.ibb.co/1J3vryH/bb.jpg",
+                "name": "Md Bayazid Hossain",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise. "
+                ,"rating": "3.5"
+            },
+            {
+                "id": "2",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "NH Siam",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+                ,"rating": "4.5"
+            }
+        ]
+    },
+    {
+        "package_id": "05",
+        "title": "Pleasurable Dhaka Tour Package for 5 Days 4 Nights from Departure",
+        "img": "https://i.ibb.co/hVS7nwm/5.jpg",
+        "price": "30.00",
+        "classNames": "active",
+        "description": "This evening, touch down in the exciting land of Bangladesh, as you arrive at Dhaka International Airport and are transferred to your hotel for an overnight stay.",
+        "details": [
+            {
+                "id": "0",
+                "day": "Day 1",
+                "name": "Dhaka",
+                "details": "This evening, touch down in the exciting land of Bangladesh, as you arrive at Dhaka International Airport and are transferred to your hotel for an overnight stay."
+            },
+            {
+                "id": "1",
+                "day": "Day 2",
+                "name": "Khulna",
+                "details": "After breakfast in your hotel, you’ll head to Khulna, stopping along the way to visit the National Martyrs Monument at Savar and explore a tile factory and pottery village in Jessore. Enjoy lunch at a local restaurant in Jessore before hitting the road again, arriving in Khulna in time for dinner and an overnight stay."
+            },
+            {
+                "id": "2",
+                "day": "Day 3",
+                "name": "Dhaka",
+                "details": "Today, you’re heading back to the capital of Dhaka, stopping on route to visit the tomb of poet Lalon Shah in Kushtia and to enjoy lunch at a local restaurant. Afterward, explore a metal craft village in Dhamrai before arriving in Dhaka in the late afternoon, just in time to settle into your hotel and spend a relaxing evening."
+            }
+        ],
+        "reviews": [
+            {
+                "id": "0",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "Md Karim Miah",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. "
+                ,"rating": "4.5"
+            },
+            {
+                "id": "1",
+                "img" : "https://i.ibb.co/1J3vryH/bb.jpg",
+                "name": "Md Bayazid Hossain",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise. "
+                ,"rating": "3.5"
+            },
+            {
+                "id": "2",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "NH Siam",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+                ,"rating": "4.5"
+            }
+        ]
+    },
+    {
+        "package_id": "06",
+        "title": "Family Getaway 2 Days 1 Night Chittagong and Rangamati Holiday Package",
+        "img": "https://i.ibb.co/6rz6kKr/6.jpg",
+        "price": "20.00",
+        "classNames": "active",
+        "description": "6:30 am train will arrive at Chittagong, meet & greet by our local guide at train station. After having breakfast at local restaurant proceed 2½ hrs. to Rangamati. Enjoy local sightseeing & boating on the lake. Overnight stay at Parjatan Holiday Complex in Rangamati Hotel : Tower Inn, Chittagong",
+        "details": [
+            {
+                "id": "0",
+                "day": "Day 1",
+                "name": "Chittagong",
+                "details": "6:30 am train will arrive at Chittagong, meet & greet by our local guide at train station. After having breakfast at local restaurant proceed 2½ hrs. to Rangamati. Enjoy local sightseeing & boating on the lake. Overnight stay at Parjatan Holiday Complex in Rangamati Hotel : Tower Inn, Chittagong"
+            },
+            {
+                "id": "1",
+                "day": "Day 2",
+                "name": "Rangamati",
+                "details": "After breakfast check out for Chittagong, en-route visit Chakma tribal village. Drive to Chittagong for lunch & board on the train at 3 pm to Dhaka. Arrival at Dhaka by 9 pm. "
+            }
+        ],
+        "reviews": [
+            {
+                "id": "0",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "Md Karim Miah",
+                "details": "Morning at 7 AM transfer to Gothkhali 125Kms/3Hrs through beautiful countryside’s and rural bazaar. Arrive at Gothkhali Jetty and board in to the motorized boat. "
+                ,"rating": "4.5"
+            },
+            {
+                "id": "1",
+                "img" : "https://i.ibb.co/1J3vryH/bb.jpg",
+                "name": "Md Bayazid Hossain",
+                "details": "The morning after breakfast cruise to Naubanki, Deulbharani – Panchamukhani and numerous creeks and visit Dobanki to experience the Canopy Walk in the Tower and cruise. "
+                ,"rating": "3.5"
+            },
+            {
+                "id": "2",
+                "img" : "https://i.ibb.co/pvYcjF1/nh.jpg",
+                "name": "NH Siam",
+                "details": "Morning after breakfast experience the village life at Bali followed by a manually oared country boat ride. After Lunch check out of the village camp followed by transfer to Dhaka. "
+                ,"rating": "4.5"
+            }
+        ]
+    }
+]
